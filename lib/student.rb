@@ -7,7 +7,6 @@ def initialize(name, grade, id = nil)
   #  with DB[:conn]
   @name = name
   @grade = grade
-  @id = id
 end
 
 def self.create_table
