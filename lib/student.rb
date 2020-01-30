@@ -44,5 +44,3 @@ def create(name, grade)
 end
 
 end
-
-end
